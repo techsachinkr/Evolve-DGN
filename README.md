@@ -1,5 +1,6 @@
 # Evolve-DGN
-Code for paper titled "Evolve-DGN: An Evolving Dynamic Graph Network for Adaptive and Equitable Resource Allocation in Disaster Response"
+Code for paper titled "Evolve-DGN: An Evolving Dynamic Graph Network for Adaptive and Equitable Resource Allocation in Disaster Response".
+Accepted for AAAI Fall Symposium 2025, to be presented in AI for Social Good track
 
 ## Overview
 Evolve-DGN is a novel deep learning approach that combines Graph Neural Networks (GNNs) with Reinforcement Learning (RL) to optimize resource allocation during disaster response scenarios. The model is designed to adapt to dynamic changes in the environment while ensuring equitable distribution of resources.
