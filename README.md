@@ -1,5 +1,6 @@
 # Evolve-DGN
-Code for paper titled "Evolve-DGN: An Evolving Dynamic Graph Network for Adaptive and Equitable Resource Allocation in Disaster Response"
+Code for paper titled "Evolve-DGN: An Evolving Dynamic Graph Network for Adaptive and Equitable Resource Allocation in Disaster Response".
+Accepted for AAAI Fall Symposium 2025, to be presented in AI for Social Good track
 
 **Published in:** Proceedings of the AAAI Symposium Series, Vol. 7 No. 1 (2025)  
 **Conference:** AAAI Fall Symposium 2025 - AI for Social Good: Emerging Methods, Measures, Data, and Ethics  
